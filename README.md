@@ -20,6 +20,8 @@ own business and provide them a platform to reach larger customer base.
 
 ### Insights
 ![1](https://github.com/vidhan7337/Mobi-tiffin/blob/master/assets/1.PNG)
+![2](https://github.com/vidhan7337/Mobi-tiffin/blob/master/assets/2.PNG)
+![3](https://github.com/vidhan7337/Mobi-tiffin/blob/master/assets/3.PNG)
 
 
 ## Getting Started
