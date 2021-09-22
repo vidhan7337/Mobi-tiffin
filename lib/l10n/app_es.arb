@@ -1,0 +1,14 @@
+{
+    "helloWorld": "Hola Mundo!",
+    "homeScreen":"હોમ સ્ક્રીન",
+    "toptiffinprovider":"ટોચ ટિફિન પ્રદાતા",
+    "available":"ઉપલબ્ધ",
+    "notavilable":"ઉપલબ્ધ નથી",
+    "home":"ઘર",
+    "profile":"પ્રોફાઇલ",
+    "myorders":"પ્રોફાઇલ",
+    "logout":"લૉગ આઉટ",
+    "logoutsuccesfully": "લૉગ આઉટ સફળતાપૂર્વક",
+    "selectedlanguageis":"પસંદગીની ભાષા છે :"
+    
+}
