@@ -7,19 +7,19 @@ Tiffin collaborates with the local meal box vendors and women who want to start 
 own business and provide them a platform to reach larger customer base. 
 
 ### User side features
-❖ Login And Signup Option
-❖ Multi Seller system
-❖ Multi Item Order System
-❖ Time slot selection
-❖ User ratings for the order
-❖ Language Localization in-app
-❖ Order cancellation option
-❖ Direct Calling option and contact us through email and phone
-❖ Change Password option at customer side
-❖ Profile Update and Address management option
+❖ Login And Signup Option<br />
+❖ Multi Seller system<br />
+❖ Multi Item Order System<br />
+❖ Time slot selection<br />
+❖ User ratings for the order<br />
+❖ Language Localization in-app<br />
+❖ Order cancellation option<br />
+❖ Direct Calling option and contact us through email and phone<br />
+❖ Change Password option at customer side<br />
+❖ Profile Update and Address management option<br />
 
 ### Insights
--![1](https://github.com/vidhan7337/Mobi-tiffin/blob/master/assets/1.PNG)
+![1](https://github.com/vidhan7337/Mobi-tiffin/blob/master/assets/1.PNG)
 
 
 ## Getting Started
