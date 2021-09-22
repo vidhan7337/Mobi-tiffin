@@ -1,6 +1,26 @@
-# user_tiffin
+# User Mobi Tiffin
 
 A new Flutter project.
+
+Mobi Tiffin is a meal providing application specially for students and bachelors. Mobi 
+Tiffin collaborates with the local meal box vendors and women who want to start their 
+own business and provide them a platform to reach larger customer base. 
+
+### User side features
+❖ Login And Signup Option
+❖ Multi Seller system
+❖ Multi Item Order System
+❖ Time slot selection
+❖ User ratings for the order
+❖ Language Localization in-app
+❖ Order cancellation option
+❖ Direct Calling option and contact us through email and phone
+❖ Change Password option at customer side
+❖ Profile Update and Address management option
+
+### Insights
+-![1](https://github.com/vidhan7337/Mobi-tiffin/blob/master/assets/1.PNG)
+
 
 ## Getting Started
 
